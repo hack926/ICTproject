@@ -78,6 +78,10 @@ MyBusinessWebsite
 - The images used for the team section in the About Us page should be stored in the `images/` folder:
   - `team1.jpg`, `team2.jpg`, and `team3.jpg` represent the team members' profile pictures.
 
+## To run
+-download the zip file from given link :
+https://github.com/hack926/ICTproject.git
+
 ## How to Use
 
 1. Clone or download the repository to your local machine.
